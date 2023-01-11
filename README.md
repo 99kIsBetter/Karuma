@@ -1,6 +1,4 @@
-# Karuma
-
-![](karuma.png)
+![](https://cdn.discordapp.com/attachments/890913525017505792/891049094133448724/unknown.png)
 > Little preview of the bot and the embed
                 
 				
